@@ -15,6 +15,14 @@
 This project is part of a broader research and technological application initiative that integrates **usability principles (Nielsen, 1994)**, **modern frontend architecture**, and **role-based access control (RBAC)**.
 
 ---
+## 📄 Project Deliverables
+
+Per the project requirements, the following resources are included in this repository:
+
+- 🎥 **Video Demo:** [Watch the Demo](/demo/demo.mp4)
+- 📑 **Final Report:** [Read Final Report](/docs/informe_final.pdf)
+
+---
 
 ## 🧭 Methodology
 
@@ -160,6 +168,12 @@ yarn dev
 ```bash
 yarn build
 ```
+
+## 👤 Author
+
+- Name: Kristopher Javier Alvarado López
+- Carné: 21188 
+
 
 ## 🙏 Thanks for Reading
 
